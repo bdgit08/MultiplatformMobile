@@ -1,0 +1,3 @@
+rootProject.name = 'MultiplatformMobile'
+
+include ':app'

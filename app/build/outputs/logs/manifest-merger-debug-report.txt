@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\59be50e76a712e57f9a2df512cb949b1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\9801b3aae01a2d27881879c424f4bc80\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\87c79338c4ee411b307c8978c625600c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\d8bcd0f4fe995dc0314635ec7683ee03\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\c584f60f3800b61e7142255d86932957\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\bd7bebf580c4147e28a4080a6bc448fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\87769f5894e3a167898bfb9b38396830\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\b2947303857931ac92b7943f505f565f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\bc976777860b09b311ed238a93f7ad01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\ddb55379e01116af771319daddf4dd91\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\ea5a98d7a2386f7cdacd343ca8111908\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\f7954779786cc2a0ab86fdc76463bde9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\dba27b855444556ec966419cbfcc0b4d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\a22a8af3cb55172d13c5ffd31df5a602\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\d8174a32b1134d6edd63940b184b1ba3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\4edc53c2582bba0149765d3dfc48148f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\b3f396f87add8116e5c61526ba02409a\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\9664977f4ad7c2cf5a971a1653158928\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\abad7ec00ed29f77e52a43f1c477e6d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\9f401c892a1a43a64cddfaee0bcb3c13\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\d11abb1a40bcf97c5ff7dfc4b580fc6a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\93d4f120a98e08550c63940f26197e12\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\3250b9ea8f2c1fd698b45877caef2f63\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\922eeee0227c6587a6406ffed6dba815\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\d2353236449b0e19cdb52b154ae3dedc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\46691d89e3ac6f8381fcb4d2853c82fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\ac65f69702201feaeb33e6edc9b3f819\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml:2:1-19:12
+	package
+		ADDED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml:3:11-27
+		INJECTED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml:2:1-19:12
+		INJECTED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml:2:1-19:12
+		INJECTED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml:5:5-17:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\9801b3aae01a2d27881879c424f4bc80\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\9801b3aae01a2d27881879c424f4bc80\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\4edc53c2582bba0149765d3dfc48148f\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\4edc53c2582bba0149765d3dfc48148f\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\b3f396f87add8116e5c61526ba02409a\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\b3f396f87add8116e5c61526ba02409a\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\4edc53c2582bba0149765d3dfc48148f\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml:8:13-39
+	android:label
+		ADDED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml:7:13-45
+	android:allowBackup
+		ADDED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml:9:13-44
+activity#sample.MainActivity
+ADDED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml:10:9-16:20
+	android:name
+		ADDED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml:10:19-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml:11:13-15:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml:12:17-69
+	android:name
+		ADDED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml:12:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml:14:27-74
+uses-sdk
+INJECTED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\59be50e76a712e57f9a2df512cb949b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\59be50e76a712e57f9a2df512cb949b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\9801b3aae01a2d27881879c424f4bc80\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\9801b3aae01a2d27881879c424f4bc80\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\87c79338c4ee411b307c8978c625600c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\87c79338c4ee411b307c8978c625600c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\d8bcd0f4fe995dc0314635ec7683ee03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\d8bcd0f4fe995dc0314635ec7683ee03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\c584f60f3800b61e7142255d86932957\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\c584f60f3800b61e7142255d86932957\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\bd7bebf580c4147e28a4080a6bc448fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\bd7bebf580c4147e28a4080a6bc448fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\87769f5894e3a167898bfb9b38396830\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\87769f5894e3a167898bfb9b38396830\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\b2947303857931ac92b7943f505f565f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\b2947303857931ac92b7943f505f565f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\bc976777860b09b311ed238a93f7ad01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\bc976777860b09b311ed238a93f7ad01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\ddb55379e01116af771319daddf4dd91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\ddb55379e01116af771319daddf4dd91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\ea5a98d7a2386f7cdacd343ca8111908\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\ea5a98d7a2386f7cdacd343ca8111908\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\f7954779786cc2a0ab86fdc76463bde9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\f7954779786cc2a0ab86fdc76463bde9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\dba27b855444556ec966419cbfcc0b4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\dba27b855444556ec966419cbfcc0b4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\a22a8af3cb55172d13c5ffd31df5a602\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\a22a8af3cb55172d13c5ffd31df5a602\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\d8174a32b1134d6edd63940b184b1ba3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\d8174a32b1134d6edd63940b184b1ba3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\4edc53c2582bba0149765d3dfc48148f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\4edc53c2582bba0149765d3dfc48148f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\b3f396f87add8116e5c61526ba02409a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\b3f396f87add8116e5c61526ba02409a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\9664977f4ad7c2cf5a971a1653158928\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\9664977f4ad7c2cf5a971a1653158928\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\abad7ec00ed29f77e52a43f1c477e6d7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\abad7ec00ed29f77e52a43f1c477e6d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\9f401c892a1a43a64cddfaee0bcb3c13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\9f401c892a1a43a64cddfaee0bcb3c13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\d11abb1a40bcf97c5ff7dfc4b580fc6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\d11abb1a40bcf97c5ff7dfc4b580fc6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\93d4f120a98e08550c63940f26197e12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\93d4f120a98e08550c63940f26197e12\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\3250b9ea8f2c1fd698b45877caef2f63\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\3250b9ea8f2c1fd698b45877caef2f63\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\922eeee0227c6587a6406ffed6dba815\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\922eeee0227c6587a6406ffed6dba815\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\d2353236449b0e19cdb52b154ae3dedc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\d2353236449b0e19cdb52b154ae3dedc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\46691d89e3ac6f8381fcb4d2853c82fa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\46691d89e3ac6f8381fcb4d2853c82fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\ac65f69702201feaeb33e6edc9b3f819\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\eBdesk\.gradle\caches\transforms-2\files-2.1\ac65f69702201feaeb33e6edc9b3f819\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\eBdesk\Desktop\MultiplatformMobile\app\src\main\AndroidManifest.xml
